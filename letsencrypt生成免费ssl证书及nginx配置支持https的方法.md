@@ -2,7 +2,7 @@
 
 
 #### 脚本
-	./letsencrypt-auto certonly --webroot -w /data/front/www.bdxmx-miniprogram.com/ -d api.bdxmx.com -m hhslqj@126.com
+	./letsencrypt-auto certonly --webroot -w /data/front/www.bdxmx.com/ -d www.bdxmx.com -m hhslqj@126.com
 	
 #### nginx配置
 ```
