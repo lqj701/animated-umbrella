@@ -7,7 +7,7 @@
 #### nginx配置
 ```
 server{
-	    listen       80;
+	listen       80;
         listen 443 ssl on;
         server_name  www.bdxmx.com;
         ssl_certificate /etc/letsencrypt/live/www.bdxmx.com/fullchain.pem;
