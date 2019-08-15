@@ -19,4 +19,5 @@ server{
         ssl_prefer_server_ciphers  on;
 }
 ```
+注 ： 新生成证书之后需重启nginx后证书才会生效
 
