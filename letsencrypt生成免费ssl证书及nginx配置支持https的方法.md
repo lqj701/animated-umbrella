@@ -23,3 +23,6 @@ server{
 ```
 注 ： 新生成证书之后需重启nginx后证书才会生效
 
+#### 参考博客
+https://blog.csdn.net/dancen/article/details/81311688
+
