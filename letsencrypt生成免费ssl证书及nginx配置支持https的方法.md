@@ -1,5 +1,7 @@
 ﻿## letsencrypt生成免费ssl证书及nginx配置支持https的方法
 
+#### letsencrypt更新
+git clone https://github.com/letsencrypt/letsencrypt
 
 #### 脚本
 	./letsencrypt-auto certonly --webroot -w /data/front/www.bdxmx.com/ -d www.bdxmx.com -m hhslqj@126.com
